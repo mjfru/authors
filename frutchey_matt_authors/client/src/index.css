@@ -1,0 +1,16 @@
+h1, h2, h3, .quoteAccent {
+    font-family: 'Great Vibes', cursive;
+}
+
+.quoteAccent {
+    font-size: 32px;
+}
+
+.buttonLink {
+    text-decoration: none;
+    color: inherit;
+}
+
+.accentedAuthorInfo {
+    font-family:monospace
+}
